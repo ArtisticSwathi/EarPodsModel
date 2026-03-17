@@ -13,4 +13,4 @@ https://github.com/user-attachments/assets/0bd68334-b44d-4d4a-8354-ff676b2ba393
 
 ## Project Details
 - **Software Used:** Blender
-- **File Type:** .glb (Web-ready format)
+- **File Type:** .glb 
