@@ -4,7 +4,7 @@ A high-fidelity 3D product visualization of Ear Pods, modeled and rendered in Bl
 
 ## Preview
 
-![Ear Pods Render](./preview/render.jpg)
+![Ear Pods Render](./preview/earpods.png)
 
 ## Project Details
 - **Software Used:** Blender
